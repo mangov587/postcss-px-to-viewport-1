@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:evrone/postcss-px-to-viewport.git"
+    "url": "git@github.com:mangov587/postcss-px-to-viewport.git"
   },
   "bugs": "https://github.com/mangov587/postcss-px-to-viewport/issues",
-  "homepage": "https://github.com/mangov587/postcss-px-to-viewport",
+  "homepage": "https://github.com/mangov587/postcss-px-to-viewport-1",
   "main": "index.js",
   "keywords": [
     "css",
