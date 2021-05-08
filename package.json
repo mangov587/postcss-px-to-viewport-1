@@ -2,14 +2,14 @@
   "name": "postcss-px-to-viewport",
   "description": "A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax).",
   "version": "1.2.0",
-  "author": "Dmitry Karpunin <koderfunk@gmail.com>",
+  "author": "mangov587",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:evrone/postcss-px-to-viewport.git"
   },
-  "bugs": "https://github.com/evrone/postcss-px-to-viewport/issues",
-  "homepage": "https://github.com/evrone/postcss-px-to-viewport",
+  "bugs": "https://github.com/mangov587/postcss-px-to-viewport/issues",
+  "homepage": "https://github.com/mangov587/postcss-px-to-viewport",
   "main": "index.js",
   "keywords": [
     "css",
@@ -28,7 +28,7 @@
     "test": "jest spec/*.spec.js"
   },
   "dependencies": {
-    "object-assign": ">=4.0.1"
+    "object-assign": "^4.0.1"
   },
   "devDependencies": {
     "jest": "^25.4.0",
